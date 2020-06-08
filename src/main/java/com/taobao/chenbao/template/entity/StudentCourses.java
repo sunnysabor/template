@@ -19,5 +19,8 @@ public class StudentCourses {
 
     private Long teacher_id;
 
-
+    private String student_name;
+    private String teacher_name;
+    private int level;
+    private String major;
 }
